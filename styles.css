@@ -1,0 +1,134 @@
+div {
+    padding: 10px;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    border: 1px solid black;
+    color:white;
+    font-size: 50px;
+}
+.rgb-background {
+    background-color: rgb(255, 0, 0);
+    padding: 30px;
+    text-align: center;
+    margin: 10px;
+    color: white;
+    border:none
+}
+
+.rgb-background1 {
+    background-color: rgb(0, 255, 0);
+    padding: 30px;
+    text-align: center;
+    margin: 10px;
+    color: white;
+    border:none
+}
+
+.rgb-background2 {
+    background-color: rgb(0, 0, 255);
+    padding: 30px;
+    text-align: center;
+    margin: 10px;
+    color: white;
+    border:none
+}
+
+.rgba-background {
+    background-color: rgba(255, 0, 0, 0.5); 
+    padding: 30px;
+    text-align: center;
+    margin: 10px;
+    color: white;
+    border:none
+}
+.rgba-background1 {
+    background-color: rgba(0, 255, 0, 0.5); 
+    padding: 30px;
+    text-align: center;
+    margin: 10px;
+    color: white;
+    border:none
+}
+.rgba-background2 {
+    background-color: rgba(0, 0, 255, 0.5); 
+    padding: 30px;
+    text-align: center;
+    margin: 10px;
+    color: white;
+    border:none
+}
+
+.hex-background {
+    background-color: #ff0000; 
+    padding: 30px;
+    text-align: center;
+    margin: 10px;
+    color: white;
+    border:none
+}
+.hex-background1 {
+    background-color: #00ff00; 
+    padding: 30px;
+    text-align: center;
+    margin: 10px;
+    color: white;
+    border:none
+}
+.hex-background2 {
+    background-color: #0000ff; 
+    padding: 30px;
+    text-align: center;
+    margin: 10px;
+    color: white;
+    border:none
+}
+
+.hsl-background {
+    background-color: hsl(0, 100%, 50%); 
+    padding: 30px;
+    text-align: center;
+    margin: 10px;
+    color: black;
+    border:none
+}
+.hsl-background1 {
+    background-color: hsl(140, 100%, 50%); 
+    padding: 30px;
+    text-align: center;
+    margin: 10px;
+    color: black;
+    border:none
+}
+.hsl-background2 {
+    background-color: hsl(240, 100%, 50%); 
+    padding: 30px;
+    text-align: center;
+    margin: 10px;
+    color: black;
+    border:none
+}
+
+.hsla-background {
+    background-color: hsla(0, 100%, 50%, 0.5); 
+    padding: 30px;
+    text-align: center;
+    margin: 10px;
+    color: white;
+    border:none
+}
+.hsla-background1 {
+    background-color: hsla(120, 100%, 50%, 0.5); 
+    padding: 30px;
+    text-align: center;
+    margin: 10px;
+    color: white;
+    border:none
+}
+.hsla-background2 {
+    background-color: hsla(240, 100%, 50%, 0.5); 
+    padding: 30px;
+    text-align: center;
+    margin: 10px;
+    color: white;
+    border:none
+}
